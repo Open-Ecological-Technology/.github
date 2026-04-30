@@ -1,4 +1,4 @@
-# ABOUT
+# ABOUT OPEN ECOLOGICAL TECHNOLOGY
 
 ## MISSION
 The sharing of technology that promotes healthy ecosystems and liberated beings, with a focus on low-cost, locally-sourced, decentrally-manufactured solutions. 
