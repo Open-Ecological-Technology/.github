@@ -83,7 +83,7 @@ Lab & Science
 
 ## SHOUTOUTS
 
-Check out my [Ecology Stars]{https://github.com/stars/goldfishlaser/lists/ecology}
+Check out my [Ecology Stars](https://github.com/stars/goldfishlaser/lists/ecology)
 
 Open Hardware & Fabrication
 
