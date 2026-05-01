@@ -74,6 +74,14 @@ Food & Fermentation
 - Nut & Seed Processing
 - Solar Dehydration
 
+Physical Security
+
+- USB-A Magnetic Release
+
+Stationary and Print
+
+- Pen Plotting
+
 Lab & Science
 
 - Chemistry Lab 
