@@ -16,6 +16,7 @@ The sharing of technology that promotes healthy ecosystems and liberated beings,
 ## PROJECTS 
 
 Materials & Manufacturing
+
 - Pultrusion
 - Bioplastics
 - 3D Printed Motor
@@ -80,6 +81,14 @@ Lab & Science
 - Electronics Bench / PCB Fabrication
 - Soil Science Lab
 
+Documentation and Modelling
+
+- Docs-as-Models-as-Code
+
+Management and Marketing
+
+- OETPM
+- DfODM
 
 ## SHOUTOUTS
 
