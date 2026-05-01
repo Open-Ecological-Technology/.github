@@ -64,34 +64,45 @@ Etc.
 
 ## RECOMMENDED READING
 
-- The Wealth of Networks: How Social Production Transforms Markets and Freedom | Benkler, Yochai
-- The Vegan Book of Permaculture: Recipes for Healthy Eating and Earthright Living | Burnett, Graham
-- The Homebrew Industrial Revolution: A Low-Overhead Manifesto | Carson, Kevin
-- JADAM Pest Control | Cho, Youngsang
-- Working in Public: The Making and Maintenance of Open Source Software | Eghbal, Nadia
-- Designs for the Pluriverse: Radical Interdependence, Autonomy, and the Making of Worlds | Escobar, Arturo
-- Rocket Mass Heaters: Superefficient Woodstoves YOU Can Build | Evans, Ianto
-- Architecting Spacecraft with SysML: A Model-based Systems Engineering Approach | Friedenthal, Sanford
-- Towards a Liberatory Technology | Herber, Lewis
-- Permaculture: Principles and Pathways beyond Sustainability | Holmgren, David
-- The Humanure Handbook: A Guide to Composting Human Manure | Jenkins, Joseph C.
-- The Structure of Scientific Revolutions | Kuhn, Thomas S.
-- Rainwater Harvesting for Drylands (Vol. 1): Guiding Principles to Welcome Rain into Your Life and Landscape | Lancaster, Brad *
-- Code: And Other Laws of Cyberspace, Version 2.0 | Lessig, Lawrence
-- Free Culture: The Nature and Future of Creativity | Lessig, Lawrence
-- Intellectual Property and Open Source: A Practical Guide to Protecting Code | Lindberg, Van
-- Fabricated: The New World of 3D Printing | Lipson, Hod
-- Cult of the Dead Cow: How the Original Hacking Supergroup Might Just Save the World | Menn, Joseph
-- Permaculture: A Designers' Manual | Mollison, Bill
-- Technics and Civilization | Mumford, Lewis
-- How to Solve It: A New Aspect of Mathematical Method | Pólya, George & Conway, John H.
-- The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary | Raymond, Eric S.
-- Great Mambo Chicken and the Transhuman Condition: Science Slightly Over the Edge | Regis, Ed
-- What We Owe to Each Other | Scanlon, T.M.
-- Small Is Beautiful: Economics as if People Mattered | Schumacher, Ernst F.
-- The Difference Engine: Charles Babbage and the Quest to Build the First Computer | Swade, Doron
-- Blockchain Revolution: How the Technology Behind Bitcoin Is Changing Money, Business, and the World | Tapscott, Don
-- The Human Use of Human Beings: Cybernetics and Society | Wiener, Norbert
+Open Source, IP & Digital Commons
+
+The Wealth of Networks: How Social Production Transforms Markets and Freedom | Benkler, Yochai
+Working in Public: The Making and Maintenance of Open Source Software | Eghbal, Nadia
+Code: And Other Laws of Cyberspace, Version 2.0 | Lessig, Lawrence
+Free Culture: The Nature and Future of Creativity | Lessig, Lawrence
+Intellectual Property and Open Source: A Practical Guide to Protecting Code | Lindberg, Van
+Cult of the Dead Cow: How the Original Hacking Supergroup Might Just Save the World | Menn, Joseph
+The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary | Raymond, Eric S.
+Blockchain Revolution: How the Technology Behind Bitcoin Is Changing Money, Business, and the World | Tapscott, Don
+
+Technology & Making
+
+The Homebrew Industrial Revolution: A Low-Overhead Manifesto | Carson, Kevin
+Fabricated: The New World of 3D Printing | Lipson, Hod
+Towards a Liberatory Technology | Herber, Lewis
+Technics and Civilization | Mumford, Lewis
+Great Mambo Chicken and the Transhuman Condition: Science Slightly Over the Edge | Regis, Ed
+Architecting Spacecraft with SysML: A Model-based Systems Engineering Approach | Friedenthal, Sanford
+The Difference Engine: Charles Babbage and the Quest to Build the First Computer | Swade, Doron
+
+Permaculture & Homesteading
+
+JADAM Pest Control | Cho, Youngsang
+Rocket Mass Heaters: Superefficient Woodstoves YOU Can Build | Evans, Ianto
+Permaculture: Principles and Pathways beyond Sustainability | Holmgren, David
+The Humanure Handbook: A Guide to Composting Human Manure | Jenkins, Joseph C.
+Rainwater Harvesting for Drylands (Vol. 1): Guiding Principles to Welcome Rain into Your Life and Landscape | Lancaster, Brad *
+Permaculture: A Designers' Manual | Mollison, Bill
+The Vegan Book of Permaculture: Recipes for Healthy Eating and Earthright Living | Burnett, Graham
+
+Philosophy, Science & Political Economy
+
+Designs for the Pluriverse: Radical Interdependence, Autonomy, and the Making of Worlds | Escobar, Arturo
+The Structure of Scientific Revolutions | Kuhn, Thomas S.
+How to Solve It: A New Aspect of Mathematical Method | Pólya, George & Conway, John H.
+What We Owe to Each Other | Scanlon, T.M.
+Small Is Beautiful: Economics as if People Mattered | Schumacher, Ernst F.
+The Human Use of Human Beings: Cybernetics and Society | Wiener, Norbert
 
 ## WANT TO CONTRIBUTE?
 - You're a bit early since I'm still working on building the organization. Feel free to reach out to me personally to discuss. 
