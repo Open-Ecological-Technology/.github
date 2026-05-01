@@ -83,6 +83,8 @@ Lab & Science
 
 ## SHOUTOUTS
 
+Check out my [Ecology Stars]{https://github.com/stars/goldfishlaser/lists/ecology}
+
 Open Hardware & Fabrication
 
 - Open Source Hardware Association
@@ -137,6 +139,7 @@ Office & Productivity
 Media Production
 
 - KdenLive
+- KiCAD
 - OBS Studio
 - GIMP
 
@@ -183,4 +186,5 @@ Philosophy, Science & Political Economy
 - The Human Use of Human Beings: Cybernetics and Society | Wiener, Norbert
 
 ## WANT TO CONTRIBUTE?
-- You're a bit early since I'm still working on building the organization. Feel free to reach out to me personally to discuss. 
+- You're a bit early since I'm still working on building the organization. Feel free to reach out to me personally to discuss.
+
