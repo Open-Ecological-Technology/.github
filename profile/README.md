@@ -1,7 +1,7 @@
 # ABOUT OPEN ECOLOGICAL TECHNOLOGY
 
 ## MISSION
-The sharing of technology that promotes healthy ecosystems and liberated beings, with a focus on low-cost, locally-sourced, decentrally-manufactured solutions. 
+The sharing of technology that promotes healthy ecosystems and liberated beings, with a focus on low-cost, locally-sourced, decentrally-manufactured solutions. See [DfODM](https://github.com/Open-Ecological-Technology/DfODM).
 
 ## ASSUMPTIONS
 - We have all the materials we need to ensure no one goes without - scarcity is a distribution problem
