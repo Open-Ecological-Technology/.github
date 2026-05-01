@@ -32,35 +32,57 @@ The sharing of technology that promotes healthy ecosystems and liberated beings,
 Etc.
 
 ## SHOUTOUTS
+
+Open Hardware & Fabrication
+
 - Open Source Hardware Association
-- DOF Initative (Mach30)
+- DOF Initiative (Mach30)
 - Open Source Ecology
-- Eco-Libre
-- DiHG
 - RepRap
 - Recreator3D
-- Open Collective
-- Ekylibre
-- Internet Archive
-- Wikipedia
+- TetraBio
 - Earthships
 - Arcosanti
-- Biosphere
-- OpenSCAD
-- FreeCAD
-- Inkscape
-- LibreOffice
-- KdenLive
-- OBS Studio
-- GIMP
-- CryptPad
+- Biosphere 2
+
+Organizations & Advocacy
+
+- Eco-Libre
+- DiHG
+- Open Collective
+- Buckminster Fuller Institute
+- P2P Foundation
+- Electronic Frontier Foundation
+
+Knowledge Commons
+
+- Internet Archive
+- Wikipedia
+
+Decentralized Communication & Networking
+
 - ActivityPub
 - Meshtastic
 - Reticulum
 - FUTO
-- Buckminster Fuller Institute
-- P2P Foundation
-- Electronic Frontier Foundation
+
+Design & Fabrication Software
+
+- OpenSCAD
+- FreeCAD
+- Inkscape
+
+Office & Productivity
+
+- LibreOffice
+- Ekylibre
+- CryptPad
+
+Media Production
+
+- KdenLive
+- OBS Studio
+- GIMP
 
 ## RECOMMENDED READING
 
