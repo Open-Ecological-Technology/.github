@@ -101,6 +101,9 @@ Open Hardware & Fabrication
 - Recreator3D
 - TetraBio
 - Precious Plastic
+
+Inspirational Housing
+
 - Earthships
 - Arcosanti
 - Biosphere 2
