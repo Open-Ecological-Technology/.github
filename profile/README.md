@@ -13,23 +13,73 @@ The sharing of technology that promotes healthy ecosystems and liberated beings,
 - We have the responsibilty to not exploit others
 - Everyone is encouraged to participate to face the coming catastrophes head-on; some we may avert, others we will need to ameliorate the damage as much as possible
 
-## PROJECTS IN DEVELOPMENT
+## PROJECTS 
+
+Materials & Manufacturing
 - Pultrusion
-- HDPE Plastic Recycling
-- Rocket Stove Kiln
-- Mill
-- 3D Printer
+- Bioplastics
 - 3D Printed Motor
-- Soil Science Lab
-- Water Catchment System
-- Greywater Recycling
-- Water Filtration
+- 3D Printer
+- Casting & Foundry
+- EDM (Wire / Plunge)
+- HDPE Plastic Recycling
+- Lathe
+- Mill
+- Metal Forge / Blacksmithing
+- Pultrusion
+
+Building & Shelter
+
 - Cob Build
+- Earthbag Build
 - Greenhouse Build
-- Hugelculture 
+- Hugelkultur
+- Natural Plaster & Finish
+- Passive Solar Design
+- Reciprocal Roof
+
+Energy & Thermal
+
+- Biogas Digester
+- Photovoltaic / Solar Array
+- Rocket Stove Kiln
+- Solar Thermal / Water Heating
+- Wind Generation
+
+Water Systems
+
+- Catchment Cistern / Tank
+- Greywater Recycling
+- Rainwater Harvesting
+- Water Catchment System
+- Water Filtration
+
+Soil & Growing
+
+- Bioreactor / Compost Tea Brewer
+- Food Forest Design
 - Fermentation
-- Chemistry Lab
-Etc.
+- Hugelkultur
+- Mycology / Mushroom Cultivation
+- Olla / Subsurface Irrigation
+- Soil Science Lab
+- Seed Saving & Processing
+
+Food & Fermentation
+
+- "Cheese"making / Mylk Cultures
+- Fermentation
+- Grain Milling & Processing
+- Natto / Koji Production
+- Nut & Seed Processing
+- Solar Dehydration
+
+Lab & Science
+
+- Chemistry Lab 
+- Electronics Bench / PCB Fabrication
+- Soil Science Lab
+
 
 ## SHOUTOUTS
 
@@ -50,20 +100,26 @@ Organizations & Advocacy
 - Eco-Libre
 - DiHG
 - Open Collective
+- FUTO
 - Buckminster Fuller Institute
 - P2P Foundation
 - Electronic Frontier Foundation
 
 Knowledge Commons
 
+- Appropedia
 - Internet Archive
+- Project Gutenberg
 - Wikipedia
 
 Decentralized Communication & Networking
 
 - ActivityPub
+- IPFS
+- Matrix
 - Meshtastic
 - Reticulum
+- TOR
 - FUTO
 
 Design & Fabrication Software
