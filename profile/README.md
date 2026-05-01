@@ -102,6 +102,7 @@ Open Hardware & Fabrication
 - RepRap
 - Recreator3D
 - TetraBio
+- Precious Plastic
 - Earthships
 - Arcosanti
 - Biosphere 2
