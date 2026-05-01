@@ -32,12 +32,10 @@ Materials & Manufacturing
 Building & Shelter
 
 - Cob Build
-- Earthbag Build
 - Greenhouse Build
 - Hugelkultur
 - Natural Plaster & Finish
 - Passive Solar Design
-- Reciprocal Roof
 
 Energy & Thermal
 
