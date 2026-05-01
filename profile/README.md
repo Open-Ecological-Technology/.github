@@ -69,6 +69,7 @@ Etc.
 - Rainwater Harvesting for Drylands (Vol. 1): Guiding Principles to Welcome Rain into Your Life And Landscape | Lancaster, Brad *
 - The Humanure Handbook: A Guide to Composting Human Manure | Jenkins, Joseph C.
 - The Homebrew Industrial Revolution: A Low-Overhead Manifesto | Kevin Carson
+- Towards a Liberatory Technology | Herber, Lewis
 - JADAM Pest Control |  Youngsang Cho
 - Cult of the Dead Cow: How the Original Hacking Supergroup Might Just Save the World | Menn, Joseph
 - Blockchain Revolution: How the Technology Behind Bitcoin Is Changing Money, Business, and the World | Tapscott, Don
