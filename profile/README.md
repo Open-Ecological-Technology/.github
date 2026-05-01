@@ -59,6 +59,7 @@ Soil & Growing
 - Food Forest Design
 - Fermentation
 - Hugelkultur
+- Kelp Harvesting
 - Mycology / Mushroom Cultivation
 - Olla / Subsurface Irrigation
 - Soil Science Lab
