@@ -97,6 +97,7 @@ Open Hardware & Fabrication
 - Open Source Hardware Association
 - DOF Initiative (Mach30)
 - Open Source Ecology
+- Eco-Libre
 - RepRap
 - Recreator3D
 - TetraBio
@@ -111,7 +112,6 @@ Inspirational Housing
 Organizations & Advocacy
 
 - Creative Commons
-- Eco-Libre
 - DiHG
 - Open Collective
 - FUTO
