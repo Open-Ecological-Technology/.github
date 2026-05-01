@@ -6,7 +6,7 @@ The sharing of technology that promotes healthy ecosystems and liberated beings,
 ## ASSUMPTIONS
 - We have all the materials we need to ensure no one goes without - scarcity is a distribution problem
 - We have all the knowledge we need to make the world better - we should build openness into systems 
-- It is possible to provide everything a community needs within the community, and everything a community wants through cooperation
+- It is possible to provide everything a community needs within the community, and everything a community wants through cooperation - however, it involves a fundamental change in how we do things. 
 
 ## VALUES
 - We have the right to completely own our tools 
