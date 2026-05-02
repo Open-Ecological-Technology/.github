@@ -28,6 +28,7 @@ Materials & Manufacturing
 - Mill
 - Metal Forge / Blacksmithing
 - Pultrusion
+- Fiber Arts
 
 Building & Shelter
 
@@ -74,9 +75,10 @@ Food & Fermentation
 - Nut & Seed Processing
 - Solar Dehydration
 
-Physical Security
+Hardware Security
 
 - USB-A Magnetic Release
+- Tigard
 
 Stationary and Print
 
@@ -91,11 +93,15 @@ Lab & Science
 Documentation and Modelling
 
 - Docs-as-Models-as-Code
+- Continuous Documentation
 
 Management and Marketing
 
-- [OETPM](https://github.com/Open-Ecological-Technology/OETPM).
-- [DfODM](https://github.com/Open-Ecological-Technology/DfODM).
+- [OETPM](https://github.com/Open-Ecological-Technology/OETPM)
+- [DfODM](https://github.com/Open-Ecological-Technology/DfODM)
+- [Resume Model](https://github.com/Open-Ecological-Technology/resume-model)
+- Proposal Model
+- Lean Six Sigma
 
 ## SHOUTOUTS
 
@@ -114,6 +120,7 @@ Open Hardware & Fabrication
 
 Inspirational Housing
 
+- Seed Eco Home
 - Earthships
 - Arcosanti
 - Biosphere 2
@@ -150,6 +157,7 @@ Design & Fabrication Software
 - OpenSCAD
 - FreeCAD
 - Inkscape
+- KiCAD
 
 Office & Productivity
 
@@ -160,7 +168,6 @@ Office & Productivity
 Media Production
 
 - KdenLive
-- KiCAD
 - OBS Studio
 - GIMP
 
