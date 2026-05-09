@@ -165,6 +165,7 @@ Office & Productivity
 - LibreOffice
 - Ekylibre
 - CryptPad
+- hledger
 
 Media Production
 
