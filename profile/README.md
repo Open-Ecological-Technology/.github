@@ -27,7 +27,7 @@ Materials & Manufacturing
 - Lathe
 - Mill
 - Metal Forge / Blacksmithing
-- Pultrusion
+- PET Pultrusion 
 - Fiber Arts
 
 Building & Shelter
@@ -77,12 +77,12 @@ Food & Fermentation
 
 Hardware Security
 
-- USB-A Magnetic Release
-- Tigard
+- [USB-A Magnetic Release](https://github.com/Open-Ecological-Technology/usb-a-magnetic-breakaway)
+- Tigard Analysis
 
 Stationary and Print
 
-- Pen Plotting
+- [Pen Plotting](https://github.com/Open-Ecological-Technology/does-it-pen-plot)
 
 Lab & Science
 
@@ -92,8 +92,9 @@ Lab & Science
 
 Documentation and Modelling
 
-- Docs-as-Models-as-Code
+- [Docs-as-Models-as-Code](https://github.com/Open-Ecological-Technology/dof)
 - Continuous Documentation
+- [Library](https://github.com/Open-Ecological-Technology/dewey-decimal-datastore)
 
 Management and Marketing
 
@@ -109,13 +110,13 @@ Check out my [Ecology Stars](https://github.com/stars/goldfishlaser/lists/ecolog
 
 Open Hardware & Fabrication
 
-- Open Source Hardware Association
-- DOF Initiative (Mach30)
-- Open Source Ecology
-- Eco-Libre
-- RepRap
-- Recreator3D
-- TetraBio
+- [Open Source Hardware Association](https://oshwa.org/)
+- [DOF Initiative (Mach30)](https://github.com/dof-initiative)
+- [Open Source Ecology](https://www.opensourceecology.org/)
+- [Eco-Libre](https://www.eco-libre.org/p/)
+- [RepRap](https://reprap.org/wiki/RepRap)
+- [Recreator3D](https://www.recreator3d.com/)
+- [TetraBio](https://tetrab.io)
 - Precious Plastic
 
 Inspirational Housing
