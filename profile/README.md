@@ -142,6 +142,8 @@ Knowledge Commons
 - Internet Archive
 - Project Gutenberg
 - Wikipedia
+- Open Practice Library
+- Code for Society
 
 Decentralized Communication & Networking
 
@@ -152,6 +154,7 @@ Decentralized Communication & Networking
 - Reticulum
 - TOR
 - FUTO
+- Internet of Production
 
 Design & Fabrication Software
 
