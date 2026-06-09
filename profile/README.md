@@ -174,43 +174,43 @@ Open Hardware & Fabrication
 
 Open Source, IP & Digital Commons
 
-- The Wealth of Networks: How Social Production Transforms Markets and Freedom | Benkler, Yochai
-- Working in Public: The Making and Maintenance of Open Source Software | Eghbal, Nadia
-- Code: And Other Laws of Cyberspace, Version 2.0 | Lessig, Lawrence
-- Free Culture: The Nature and Future of Creativity | Lessig, Lawrence
-- Intellectual Property and Open Source: A Practical Guide to Protecting Code | Lindberg, Van
-- Cult of the Dead Cow: How the Original Hacking Supergroup Might Just Save the World | Menn, Joseph
-- The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary | Raymond, Eric S.
-- Blockchain Revolution: How the Technology Behind Bitcoin Is Changing Money, Business, and the World | Tapscott, Don
+* [The Wealth of Networks: How Social Production Transforms Markets and Freedom](https://openlibrary.org/works/OL5836132W) | Benkler, Yochai
+* [Working in Public: The Making and Maintenance of Open Source Software](https://openlibrary.org/books/OL36659621M/Working_in_Public) | Eghbal, Nadia
+* [Code: And Other Laws of Cyberspace, Version 2.0](https://openlibrary.org/works/OL6037025W/Code) | Lessig, Lawrence
+* [Free Culture: The Nature and Future of Creativity](https://openlibrary.org/works/OL6037024W/Free_culture) | Lessig, Lawrence
+* [Intellectual Property and Open Source: A Practical Guide to Protecting Code](https://openlibrary.org/works/OL18722086W) | Lindberg, Van
+* [Cult of the Dead Cow: How the Original Hacking Supergroup Might Just Save the World](https://openlibrary.org/books/OL29801791M/Cult_of_the_Dead_Cow) | Menn, Joseph
+* [The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary](https://openlibrary.org/books/OL7580903M/The_Cathedral_the_Bazaar) | Raymond, Eric S.
+* [Blockchain Revolution: How the Technology Behind Bitcoin Is Changing Money, Business, and the World](https://openlibrary.org/books/OL27212411M/Blockchain_revolution) | Tapscott, Don
 
 Technology & Making
 
-- The Homebrew Industrial Revolution: A Low-Overhead Manifesto | Carson, Kevin
-- Fabricated: The New World of 3D Printing | Lipson, Hod
-- Towards a Liberatory Technology | Herber, Lewis
-- Technics and Civilization | Mumford, Lewis
-- Great Mambo Chicken and the Transhuman Condition: Science Slightly Over the Edge | Regis, Ed
-- Architecting Spacecraft with SysML: A Model-based Systems Engineering Approach | Friedenthal, Sanford
-- The Difference Engine: Charles Babbage and the Quest to Build the First Computer | Swade, Doron
+- [The Homebrew Industrial Revolution: A Low-Overhead Manifesto](https://openlibrary.org/works/OL16982094W) | Carson, Kevin
+- [Fabricated: The New World of 3D Printing](https://openlibrary.org/works/OL19962190W) | Lipson, Hod
+- [Towards a Liberatory Technology](https://openlibrary.org/works/OL6358582W) *(essay in Post-Scarcity Anarchism)* | Bookchin, Murray (as Lewis Herber)
+- [Technics and Civilization](https://openlibrary.org/works/OL1879251W) | Mumford, Lewis
+- [Great Mambo Chicken and the Transhuman Condition](https://openlibrary.org/books/OL7407894M/Great_Mambo_Chicken_and_the_Transhuman_Condition) | Regis, Ed
+- [Architecting Spacecraft with SysML: A Model-based Systems Engineering Approach](https://openlibrary.org/books/OL36635756M/Architecting_Spacecraft_with_SysML) | Friedenthal, Sanford
+- [The Difference Engine: Charles Babbage and the Quest to Build the First Computer](https://openlibrary.org/works/OL7988033W) | Swade, Doron
 
 Permaculture & Homesteading
 
-- JADAM Pest Control | Cho, Youngsang
-- Rocket Mass Heaters: Superefficient Woodstoves YOU Can Build | Evans, Ianto
-- Permaculture: Principles and Pathways beyond Sustainability | Holmgren, David
-- The Humanure Handbook: A Guide to Composting Human Manure | Jenkins, Joseph C.
-- Rainwater Harvesting for Drylands (Vol. 1): Guiding Principles to Welcome Rain into Your Life and Landscape | Lancaster, Brad *
-- Permaculture: A Designers' Manual | Mollison, Bill
-- The Vegan Book of Permaculture: Recipes for Healthy Eating and Earthright Living | Burnett, Graham
+- [JADAM Organic PEST and DISEASE CONTROL](https://openlibrary.org/books/OL39799458M/JADAM_Organic_PEST_and_DISEASE_CONTROL) | Cho, Youngsang
+- [Rocket Mass Heaters: Superefficient Woodstoves YOU Can Build](https://archive.org/details/RocketMassHeatersIII) *(Internet Archive — not in OL)* | Evans, Ianto
+- [Permaculture: Principles and Pathways beyond Sustainability](https://openlibrary.org/works/OL15930811W) | Holmgren, David
+- [The Humanure Handbook: A Guide to Composting Human Manure](https://openlibrary.org/works/OL8279646W) | Jenkins, Joseph C.
+- [Rainwater Harvesting for Drylands (Vol. 1)](https://openlibrary.org/books/OL26032096M/Rainwater_Harvesting_For_Drylands_And_Beyond) | Lancaster, Brad
+- [Permaculture: A Designers' Manual](https://openlibrary.org/works/OL2920710W) | Mollison, Bill
+- [The Vegan Book of Permaculture](https://www.worldcat.org/isbn/9781856232012) *(WorldCat — not in OL)* | Burnett, Graham
 
 Philosophy, Science & Political Economy
 
-- Designs for the Pluriverse: Radical Interdependence, Autonomy, and the Making of Worlds | Escobar, Arturo
-- The Structure of Scientific Revolutions | Kuhn, Thomas S.
-- How to Solve It: A New Aspect of Mathematical Method | Pólya, George & Conway, John H.
-- What We Owe to Each Other | Scanlon, T.M.
-- Small Is Beautiful: Economics as if People Mattered | Schumacher, Ernst F.
-- The Human Use of Human Beings: Cybernetics and Society | Wiener, Norbert
+- [Designs for the Pluriverse: Radical Interdependence, Autonomy, and the Making of Worlds](https://openlibrary.org/works/OL19979560W) | Escobar, Arturo
+- [The Structure of Scientific Revolutions](https://openlibrary.org/works/OL2841686W) | Kuhn, Thomas S.
+- [How to Solve It: A New Aspect of Mathematical Method](https://openlibrary.org/works/OL1891600W) | Pólya, George
+- [What We Owe to Each Other](https://openlibrary.org/works/OL2667519W) | Scanlon, T.M.
+- [Small Is Beautiful: Economics as if People Mattered](https://openlibrary.org/works/OL2660892W) | Schumacher, Ernst F.
+- [The Human Use of Human Beings: Cybernetics and Society](https://openlibrary.org/works/OL2026548W) | Wiener, Norbert
 
 ## WANT TO CONTRIBUTE?
 - You're a bit early since I'm still working on building the organization. Feel free to reach out to me personally to discuss.
