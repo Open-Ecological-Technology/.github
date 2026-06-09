@@ -117,7 +117,7 @@ Open Hardware & Fabrication
 - [RepRap](https://reprap.org/wiki/RepRap)
 - [Recreator3D](https://www.recreator3d.com/)
 - [TetraBio](https://tetrab.io)
-- Precious Plastic
+- [Precious Plastic](https://www.preciousplastic.com/)
 
 ## Inspirational Housing
 - [Seed Eco-Home](https://www.opensourceecology.org/seed-eco-home-builds/)
