@@ -119,62 +119,56 @@ Open Hardware & Fabrication
 - [TetraBio](https://tetrab.io)
 - Precious Plastic
 
-Inspirational Housing
+## Inspirational Housing
+- [Seed Eco-Home](https://www.opensourceecology.org/seed-eco-home-builds/)
+- [Earthships](https://www.earthshipbiotecture.com/)
+- [Arcosanti](https://www.arcosanti.org/)
+- [Biosphere 2](https://biosphere2.org/)
 
-- Seed Eco Home
-- Earthships
-- Arcosanti
-- Biosphere 2
+## Organizations & Advocacy
+- [Creative Commons](https://creativecommons.org/)
+- [DiHG](https://dihgeco.org/)
+- [Open Collective](https://opencollective.com/)
+- [FUTO](https://futo.org/)
+- [Buckminster Fuller Institute](https://www.bfi.org/)
+- [P2P Foundation](https://p2pfoundation.net/)
+- [Electronic Frontier Foundation](https://www.eff.org/)
 
-Organizations & Advocacy
+## Knowledge Commons
+- [Appropedia](https://www.appropedia.org/)
+- [Internet Archive](https://archive.org/)
+- [Project Gutenberg](https://www.gutenberg.org/)
+- [Wikipedia](https://www.wikipedia.org/)
+- [Open Practice Library](https://openpracticelibrary.com/)
+- [Code for Science & Society](https://www.codeforsociety.org/)
 
-- Creative Commons
-- DiHG
-- Open Collective
-- FUTO
-- Buckminster Fuller Institute
-- P2P Foundation
-- Electronic Frontier Foundation
+## Decentralized Communication & Networking
+- [ActivityPub](https://activitypub.rocks/)
+- [IPFS](https://ipfs.tech/)
+- [Matrix](https://matrix.org/)
+- [Meshtastic](https://meshtastic.org/)
+- [Reticulum](https://reticulum.network/)
+- [TOR](https://www.torproject.org/)
+- [FUTO](https://futo.org/)
+- [Internet of Production](https://www.internetofproduction.org/)
 
-Knowledge Commons
+## Design & Fabrication Software
+- [OpenSCAD](https://openscad.org/)
+- [FreeCAD](https://www.freecad.org/)
+- [Inkscape](https://inkscape.org/)
+- [KiCad](https://www.kicad.org/)
 
-- Appropedia
-- Internet Archive
-- Project Gutenberg
-- Wikipedia
-- Open Practice Library
-- Code for Society
+## Office & Productivity
+- [LibreOffice](https://www.libreoffice.org/)
+- [Ekylibre](https://ekylibre.com/)
+- [CryptPad](https://cryptpad.org/)
+- [hledger](https://hledger.org/)
 
-Decentralized Communication & Networking
-
-- ActivityPub
-- IPFS
-- Matrix
-- Meshtastic
-- Reticulum
-- TOR
-- FUTO
-- Internet of Production
-
-Design & Fabrication Software
-
-- OpenSCAD
-- FreeCAD
-- Inkscape
-- KiCAD
-
-Office & Productivity
-
-- LibreOffice
-- Ekylibre
-- CryptPad
-- hledger
-
-Media Production
-
-- KdenLive
-- OBS Studio
-- GIMP
+## Media Production
+- [KDenlive](https://kdenlive.org/)
+- [OBS Studio](https://obsproject.com/)
+- [GIMP](https://www.gimp.org/)
+- [VokoscreenNG](https://linuxecke.volkoh.de/vokoscreen/vokoscreen.html/)
 
 ## RECOMMENDED READING
 
