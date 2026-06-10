@@ -180,7 +180,7 @@ Open Source, IP & Digital Commons
 * [The Wealth of Networks: How Social Production Transforms Markets and Freedom](https://openlibrary.org/works/OL5836132W) | Benkler, Yochai
 * [Working in Public: The Making and Maintenance of Open Source Software](https://openlibrary.org/books/OL36659621M/Working_in_Public) | Eghbal, Nadia
 * [Code: And Other Laws of Cyberspace, Version 2.0](https://openlibrary.org/works/OL6037025W/Code) | Lessig, Lawrence
-* [Free Culture: The Nature and Future of Creativity](https://openlibrary.org/works/OL6037024W/Free_culture) | Lessig, Lawrence
+* [Free Culture: The Nature and Future of Creativity](https://openlibrary.org/books/OL24997929M/Free_culture) | Lessig, Lawrence
 * [Intellectual Property and Open Source: A Practical Guide to Protecting Code](https://openlibrary.org/works/OL18722086W) | Lindberg, Van
 * [Cult of the Dead Cow: How the Original Hacking Supergroup Might Just Save the World](https://openlibrary.org/books/OL29801791M/Cult_of_the_Dead_Cow) | Menn, Joseph
 * [The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary](https://openlibrary.org/books/OL7580903M/The_Cathedral_the_Bazaar) | Raymond, Eric S.
