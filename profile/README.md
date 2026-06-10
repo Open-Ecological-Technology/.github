@@ -187,6 +187,7 @@ Open Source, IP & Digital Commons
 * [Cult of the Dead Cow: How the Original Hacking Supergroup Might Just Save the World](https://openlibrary.org/books/OL29801791M/Cult_of_the_Dead_Cow) | Menn, Joseph
 * [The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary](https://openlibrary.org/books/OL7580903M/The_Cathedral_the_Bazaar) | Raymond, Eric S.
 * [Blockchain Revolution: How the Technology Behind Bitcoin Is Changing Money, Business, and the World](https://openlibrary.org/books/OL27212411M/Blockchain_revolution) | Tapscott, Don
+* [Craphound](https://craphound.com/)
 
 Technology & Making
 
