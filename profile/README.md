@@ -1,7 +1,10 @@
 # ABOUT OPEN ECOLOGICAL TECHNOLOGY
 
+## WHAT IS IT?
+Open Ecological Technology is a multidisciplinary field of design practice and philosophy created by Melanie Allen (goldfishlaser) in response to today's social and environmental ecological challenges.
+
 ## MISSION
-The sharing of technology that promotes healthy ecosystems and liberated beings, with a focus on low-cost, locally-sourced, decentrally-manufactured solutions.
+Strengthening the commons of technology that promotes healthy ecosystems and liberated beings, with a focus on low-cost, locally-sourced, decentrally-manufactured solutions.
 
 ## ASSUMPTIONS
 - We have all the materials we need to ensure no one goes without - scarcity is a distribution problem
