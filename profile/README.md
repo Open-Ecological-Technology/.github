@@ -211,11 +211,11 @@ Permaculture & Homesteading
 
 Philosophy, Science & Political Economy
 
-- [Designs for the Pluriverse: Radical Interdependence, Autonomy, and the Making of Worlds](https://openlibrary.org/works/OL19979560W) | Escobar, Arturo
-- [The Structure of Scientific Revolutions](https://openlibrary.org/works/OL2841686W) | Kuhn, Thomas S.
+- [Designs for the Pluriverse: Radical Interdependence, Autonomy, and the Making of Worlds](https://openlibrary.org/works/OL17890251W/Designs_for_the_pluriverse) | Escobar, Arturo
+- [The Structure of Scientific Revolutions](ht[tps://openlibrary.org/works/OL2841686W](https://openlibrary.org/works/OL3259254W/The_Structure_of_Scientific_Revolutions)) | Kuhn, Thomas S.
 - [How to Solve It: A New Aspect of Mathematical Method](https://openlibrary.org/works/OL1891600W) | Pólya, George
-- [What We Owe to Each Other](https://openlibrary.org/works/OL2667519W) | Scanlon, T.M.
-- [Small Is Beautiful: Economics as if People Mattered](https://openlibrary.org/works/OL2660892W) | Schumacher, Ernst F.
+- [What We Owe to Each Other](https://openlibrary.org/works/OL1899422W/What_we_owe_to_each_other) | Scanlon, T.M.
+- [Small Is Beautiful: Economics as if People Mattered]([https://openlibrary.org/works/OL2660892W](https://openlibrary.org/works/OL1622912W/Small_Is_Beautiful)) | Schumacher, Ernst F.
 - [The Human Use of Human Beings: Cybernetics and Society](https://openlibrary.org/works/OL2026548W) | Wiener, Norbert
 
 ## WANT TO CONTRIBUTE?
