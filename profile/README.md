@@ -193,7 +193,7 @@ Technology & Making
 
 - [The Homebrew Industrial Revolution: A Low-Overhead Manifesto](https://openlibrary.org/works/OL16982094W) | Carson, Kevin
 - [Fabricated: The New World of 3D Printing](https://openlibrary.org/works/OL19962190W) | Lipson, Hod
-- [Towards a Liberatory Technology](https://openlibrary.org/works/OL6358582W) *(essay in Post-Scarcity Anarchism)* | Bookchin, Murray (as Lewis Herber)
+- [Towards a Liberatory Technology](https://openlibrary.org/works/OL2422730W/Post-scarcity_anarchism) *(essay in Post-Scarcity Anarchism)* | Bookchin, Murray (as Lewis Herber)
 - [Technics and Civilization](https://openlibrary.org/works/OL1879251W) | Mumford, Lewis
 - [Great Mambo Chicken and the Transhuman Condition](https://openlibrary.org/books/OL7407894M/Great_Mambo_Chicken_and_the_Transhuman_Condition) | Regis, Ed
 - [Architecting Spacecraft with SysML: A Model-based Systems Engineering Approach](https://openlibrary.org/books/OL36635756M/Architecting_Spacecraft_with_SysML) | Friedenthal, Sanford
