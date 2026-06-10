@@ -14,7 +14,7 @@ Strengthening the commons of technology that promotes healthy ecosystems and lib
 ## VALUES
 - We have the right to completely own our tools 
 - We have the responsibilty to not exploit others
-- Everyone is encouraged to participate to face the coming catastrophes head-on; some we may avert, others we will need to ameliorate the damage as much as possible
+- We have reached a point where we can expect multiple catastrophes. Everyone is encouraged to participate to face them head-on according to their resources and abilities; since some we may avert, others we will need to ameliorate the damage as much as possible
 
 ## PROJECTS 
 
