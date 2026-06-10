@@ -20,12 +20,12 @@ Strengthening the commons of technology that promotes healthy ecosystems and lib
 
 Materials & Manufacturing
 
-- Pultrusion
-- Bioplastics
+- [Pultrusion](https://en.wikipedia.org/wiki/Pultrusion)
+- [Bioplastics](https://issuu.com/nat_arc/docs/bioplastic_cook_book_3)
 - 3D Printed Motor
 - 3D Printer
 - Casting & Foundry
-- EDM (Wire / Plunge)
+- [EDM](https://en.wikipedia.org/wiki/Electrical_discharge_machining) (Wire / Plunge)
 - HDPE Plastic Recycling
 - Lathe
 - Mill
@@ -35,9 +35,9 @@ Materials & Manufacturing
 
 Building & Shelter
 
-- Cob Build
+- [Cob Build](https://www.appropedia.org/Cobb)
 - Greenhouse Build
-- Hugelkultur
+- [Huegelkultur](https://www.appropedia.org/Huegelkultur)
 - Natural Plaster & Finish
 - Passive Solar Design
 
@@ -66,7 +66,7 @@ Soil & Growing
 - Kelp Harvesting
 - Mycology / Mushroom Cultivation
 - Olla / Subsurface Irrigation
-- Soil Science Lab
+- [Soil Science](https://s3.wp.wsu.edu/uploads/sites/2076/2024/07/C221-DIY-Soil-Testing.pdf)
 - Seed Saving & Processing
 
 Food & Fermentation
@@ -81,7 +81,7 @@ Food & Fermentation
 Hardware Security
 
 - [USB-A Magnetic Release](https://github.com/Open-Ecological-Technology/usb-a-magnetic-breakaway)
-- Tigard Analysis
+- [Tigard Analysis](https://learn.securinghardware.com/courses/applied-physical-attacks-with-tigard/)
 
 Stationary and Print
 
@@ -92,6 +92,8 @@ Lab & Science
 - Chemistry Lab 
 - Electronics Bench / PCB Fabrication
 - Soil Science Lab
+- [Fab Lab](https://en.wikipedia.org/wiki/Fab_lab)
+- [Open Source Lab](https://reprap.org/wiki/Open_Source_Lab)
 
 Documentation and Modelling
 
