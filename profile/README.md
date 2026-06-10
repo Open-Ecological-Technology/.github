@@ -123,6 +123,7 @@ Open Hardware & Fabrication
 - [Recreator3D](https://www.recreator3d.com/)
 - [TetraBio](https://tetrab.io)
 - [Precious Plastic](https://www.preciousplastic.com/)
+- [HardwareX](https://www.hardware-x.com/)
 
 ## Inspirational Housing
 - [Seed Eco-Home](https://www.opensourceecology.org/seed-eco-home-builds/)
@@ -144,6 +145,7 @@ Open Hardware & Fabrication
 - [Internet Archive](https://archive.org/)
 - [Project Gutenberg](https://www.gutenberg.org/)
 - [Wikipedia](https://www.wikipedia.org/)
+- https://opensustain.tech/
 - [Open Practice Library](https://openpracticelibrary.com/)
 - [Code for Science & Society](https://www.codeforsociety.org/)
 
